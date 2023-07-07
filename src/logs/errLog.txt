@@ -1,0 +1,11 @@
+20230706	19:04:25	a9467c26-6dd8-44ea-93b6-87cf4dd018ce	Error: Not allowed by CORS
+20230706	19:04:25	141dda00-906d-4a30-bfa2-0bdcb8049095	Error: Not allowed by CORS
+20230706	19:04:25	b561d6eb-0183-4d4c-ad97-7050eeb0d817	Error: Not allowed by CORS
+20230706	19:04:36	7fb84a53-75ca-42ce-a457-b035f837793e	Error: Not allowed by CORS
+20230706	19:04:36	01cd03d6-87ca-46ea-80d2-ca3f5f2eec4c	Error: Not allowed by CORS
+20230706	19:04:36	afe87d66-dc91-4b61-9de6-cacdf16a1cb8	Error: Not allowed by CORS
+20230706	19:04:58	729a774d-4995-4c76-a114-073846bed1d1	Error: Not allowed by CORS
+20230706	19:05:01	ae0c7c1c-8d15-4a78-985d-42ca2cb7e255	Error: Not allowed by CORS
+20230706	19:05:03	659cd061-15f9-453d-81e3-7a0029c0d6a4	Error: Not allowed by CORS
+20230706	19:05:06	e0ec5853-7c2d-400b-ae53-9245487e1c76	Error: Not allowed by CORS
+20230706	19:51:03	1e5930d5-7c91-4d5c-826e-b8112cafc26d	SyntaxError: Unexpected token o in JSON at position 1
